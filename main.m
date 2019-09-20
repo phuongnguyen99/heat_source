@@ -1,6 +1,6 @@
 parameter;
 
-    for caseid = 1:1
+    for caseid = 1:4
         Model;
         forward;
      for noise = [0 5 10]        
